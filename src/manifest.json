@@ -1,0 +1,15 @@
+{
+	"background": {
+	 "scripts": [ "background.js" ]
+	},
+	"description": "Close other tabs except the current window",
+	"name": "Just One Tab",
+	"permissions": ["tabs"],
+	"icons": {
+	  "24": "icon.png"
+	},
+	"version": "1.0.0.0",
+	"manifest_version": 2
+}
+
+
